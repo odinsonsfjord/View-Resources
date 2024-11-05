@@ -38,3 +38,11 @@
 На каждой странице макетов в Figma есть темная тема. 
 Воспользуйтесь `res/values` и `res/values-night` для реализации светлой и темной темы.
 Обязательно используйте аттрибуты темы в верстке для реализации этой функциональности.
+
+## Полезные ссылки
+
+Настоятельно рекомендуется ознакомиться с следующими ресурсами:
+2. [Material Design](https://material.io/design) - официальный сайт Material Design
+1. [Material Components](https://m3.material.io/components) - библиотека компонентов Material Design
+2. [Material Colors](https://m2.material.io/design/color/the-color-system.html#color-usage-and-palettes) - цветовая палитра Material Design и их использование
+3. [Material theme builder](https://m3.material.io/blog/material-theme-builder) - генератор тем Material Design
